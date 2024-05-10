@@ -11,7 +11,7 @@ This guide assumes you have a flatpak Chrome web browser installed on your Steam
 
 ## Setup Manually (Simple)
 - Download the [Offline install](https://laingame.net/offline.html) version of Laingame.com
-- Grab the script from [Releases](https://github.com/Allunatik/Tsukihime-Trial-Edition-1999-EN-TL/releases)
+- Grab the script from [Releases](https://github.com/Allunatik/LainSTX-Steam-Deck/releases)
 - Create a folder in your Steam folder, we'll use LainTSX for the sake of this guide in 
   The path should be /home/deck/.local/share/Steam/steamapps/common/LainTSX
 - Paste ```laingame.com``` into the folder
