@@ -9,7 +9,7 @@ The process is simple. A custom shell script is ran that launches the webserver 
 # Initial setup
 This guide assumes you have a flatpak Chrome web browser installed on your Steam Deck trough the Discover store, if you don't you should first do so. If you wish to substitute the browser to another you will need to substitute the browser specific command at the end of the script with your own.
 
-## Setup manually
+## Setup Manually (Easy)
 - Download the [Offline install](https://laingame.net/offline.html) version of Laingame.com
 - Grab the script from [Releases](https://github.com/Allunatik/Tsukihime-Trial-Edition-1999-EN-TL/releases)
 - Create a folder in your Steam folder, we'll use LainTSX for the sake of this guide in 
@@ -25,7 +25,7 @@ Alternatively you can open konsole by right clicking the folder ```Open Terminal
 
 Thats it you're done, see the sections "Post install" and "Additional".
 
-## Setup manually
+## Setup Manually (Novice)
 This part assumes you're partially familiar with how to navigate and do simple tasks in Linux, it's a good way to learn how this script works and how to setup a non-steam game in general.
 
 - Download the [Offline install](https://laingame.net/offline.html) version of Laingame.com
