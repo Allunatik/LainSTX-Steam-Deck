@@ -25,7 +25,7 @@ Alternatively you can open konsole by right clicking the folder ```Open Terminal
 
 Thats it you're done, see the sections "Post install" and "Additional".
 
-## Setup Manually (Novice)
+## Setup Manually
 This part assumes you're partially familiar with how to navigate and do simple tasks in Linux, it's a good way to learn how this script works and how to setup a non-steam game in general.
 
 - Download the [Offline install](https://laingame.net/offline.html) version of Laingame.com
