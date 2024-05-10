@@ -1,5 +1,5 @@
 # LainSTX-Steam-Deck
-![LainTSX-Steam-Deck-Local](https://i.imgur.com/OIFv6Ln.png)
+![LainTSX-Steam-Deck-Local](https://i.imgur.com/t7xPqa3.png)
 ## About
 This is a guide on how to setup LainTSX on the Steam Deck locally
 [https://laingame.net/](https://laingame.net/)
