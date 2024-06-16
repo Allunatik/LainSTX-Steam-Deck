@@ -37,7 +37,7 @@ This part assumes you're partially familiar with how to navigate and do simple t
 
 - Add #!/bin/bash to the first line of the script
 - Add the path to the webserver, assign a port with "-p" at the end ```/home/deck/.local/share/Steam/steamapps/common/LainSTX/laingame.com -p 8081```
-- We'll use 8081 as an example as 8384 is reserver for the Decky loader plugin however you may use whatever port you wish
+- We'll use 8081 as an example as 8384 is reserved for the Decky loader plugin however you may use whatever port you wish
 (Alternatively if you don't wish to host it manually for whatever reason you can just point it to the official host ```https://3d.laingame.net/#/game``` by replacing the above line)
 
 - Then lastly point the web browser to open your locally hosted LainTSX in kiosk mode by adding
